@@ -31,10 +31,6 @@
 - Follows Android design guide and development best practices with Jetpack Compose.
 - Explore the possibilities of creating complex ui and ux of a Uber Booking flow using Compose.
 
-### Video Demo:
-
-https://user-images.githubusercontent.com/32521663/195015157-bd31b444-9e00-459f-a5c9-70d17e5c6fa3.mp4
-
 
 
 ### 🛠 Built with ❤️ using Kotlin
@@ -59,26 +55,3 @@ add map api key in `local.properties` as `MAPS_API_KEY="[your_api_key]"` and Syn
 
 Have any questions, doubts or want to present your opinions, views? You're always welcome. You can [start discussions](https://github.com/mutualmobile/UberBookingClone/discussions).
 
-### 🤝 Contributors
-
-See our rockstar contributors :smile:
-
-[![UberBookingClone Contributors](https://contrib.rocks/image?repo=mutualmobile/UberBookingClone)](https://github.com/mutualmobile/UberBookingClone/graphs/contributors)
-
-- If you want to contribute to this library, you're always welcome!
-See [Contributing Guidelines](CONTRIBUTING.md).
-
-### :envelope: Get in touch!
-
-[![Medium](https://img.shields.io/badge/-medium-gray?style=for-the-badge&logo=medium)](https://medium.com/mutualmobile)
-[![Twitter](https://img.shields.io/badge/-twitter-gray?style=for-the-badge&logo=twitter)](https://twitter.com/MutualMobile)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/mutualmobile/mycompany/)
-
-
-### Find this project useful ? ❤️
-
-- Support it by clicking the ⭐️ button on the upper right of this page. ✌️
-
-### License
-
-- See [License](LICENSE)
